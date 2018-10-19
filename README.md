@@ -1,4 +1,8 @@
 # CodePlexDiscussionDownload
+
+**Note:** CodePlex website was shutdown and the required webpages are no longer available so this tool does not work anymore.
+
+
 CodePlexDiscussionDownload is a small utility application written in C# to download HTML and data from CodePlex Discusssion Forums.  The app scrapes the CodePlex Discussions downloading static HTML files of the thread list and thread details pages as well as extracting raw data and saving in a JSON format.
 
 CodePlex is shutting down but the initial announcement indicates that a project's Discussions forum will not be included in the archived content.  [It looks like CodePlex may include that content](https://codeplex.codeplex.com/wikipage?title=Moving%20CodePlex%20to%20read-only): 
